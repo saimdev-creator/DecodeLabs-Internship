@@ -16,16 +16,19 @@ Below is the structured index of all the milestones completed during this indust
 | # | Project Name | Core Technologies | Status | View Project Documentation |
 | :---: | :--- | :--- | :---: | :--- |
 | **01** | **Rule-Based AI Chatbot** | Python 3, Tkinter GUI, Regex Parsing | `🟢 Completed` | [Explore Project 1 ➜](./Project-1-Rule-Based-AI-Chatbot/) |
-| **02** | *Upcoming Project 2* | To Be Announced | `🟡 Pending` | Coming Soon... |
+| **02** | **Data Classification Using AI** | Python 3, Scikit-Learn, KNN, Matplotlib | `🟢 Completed` | [Explore Project 2 ➜](./Project-2-Data-Classification-AI/) |
 | **03** | *Upcoming Project 3* | To Be Announced | `🟡 Pending` | Coming Soon... |
 | **04** | *Upcoming Project 4* | To Be Announced | `🟡 Pending` | Coming Soon... |
 
 ---
 
 ## 🎯 Program Core Learning Outcomes
+
 Throughout this industrial layout tracking structure, I am masterfully executing:
 - Structured Logic Building & Decision Trees
 - Component GUI Application Architecture (Tkinter)
+- Supervised Machine Learning & Advanced Data Pipelines (Scikit-Learn)
+- Industrial Pattern Analysis & Evaluation Metrics (Confusion Matrix, F1-Score)
 - Production-Level Code Management and Version Control via Git/GitHub
 - Input Validation, Filtering, and Performance Optimization
 
