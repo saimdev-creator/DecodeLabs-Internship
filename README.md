@@ -3,8 +3,8 @@
 Welcome to my official internship repository! This repository serves as a centralized hub for all the engineering projects developed during the **DecodeLabs AI Industrial Training Program (Batch 2026)**.
 
 ## 👨‍💻 Developer Profile
-* **Name:** Muhammad Saim Rizwan[cite: 1]
-* **Domain:** BS Computer Science Student[cite: 1]
+* **Name:** Muhammad Saim Rizwan
+* **Domain:** BS Computer Science Student
 * **Objective:** Building core competencies in AI systems, interactive control flows, and production-ready applications.
 
 ---
